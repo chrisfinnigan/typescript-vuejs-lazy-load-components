@@ -1,4 +1,4 @@
-# An example of how to lazy lod components in Vue.js (Typescript)
+# An example of how to lazy load components in Vue.js (Typescript)
 
 ## Project setup
 ```
